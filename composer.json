@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-common",
+    "name": "ads-system/sped-common",
     "type": "library",
     "description": "sped-common é parte do projeto NFePHP.",
     "keywords": [
@@ -7,7 +7,7 @@
         "sped",
         "nfephp"
     ],
-    "homepage": "https://github.com/nfephp-org/sped-common",
+    "homepage": "https://github.com/ferreira1987/sped-common",
     "license": [
         "LGPL-3.0-or-later",
         "GPL-3.0-or-later",
@@ -28,7 +28,7 @@
         },
         {
             "name": "Comunidade NFePHP",
-            "homepage": "https://github.com/nfephp-org/sped-common/graphs/contributors"
+            "homepage": "https://github.com/ferreira1987/sped-common/graphs/contributors"
         }
     ],
     "require": {
